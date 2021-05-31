@@ -1,0 +1,66 @@
+.backPhoto{
+    max-width: 414px;
+    max-height: 896px;
+    
+    background-color: #c7c4c4;
+}
+
+
+.header{
+    height: auto;
+    width: 100%;
+    text-align: center;
+}
+
+
+
+#photoSize{
+    margin-top: 30px;
+    margin-bottom: 20px;
+    width: 160px;
+    height: 160px;
+    
+}
+
+.name{
+    padding-top: 6px;
+    text-align: center;
+    font-size : 20px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bo{
+    margin-top: 45px;
+    text-align: center;
+    
+}
+
+#border{
+    border-radius: 10px;
+}
+
+.Butt{
+    width: 267px;
+    height: 57px;
+    margin-bottom: 30px;
+    border: none;
+    
+}
+
+#text{
+    padding-top: 12px;
+    font-family:'Roboto', sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.padIcon{
+    padding-top: 100px;
+    
+
+}
+
+.flex{
+    display: flex;
+}
